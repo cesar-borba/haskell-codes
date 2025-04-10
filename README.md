@@ -1,0 +1,1 @@
+Repositório voltado para anotações e exercícios da matéria de Programação Funcional em Haskell ministrada pelo professor Felipe Cannarozzo.
